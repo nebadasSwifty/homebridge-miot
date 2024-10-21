@@ -1,7 +1,7 @@
 {
   "name": "homebridge-miot",
   "displayName": "Homebridge Miot",
-  "version": "1.7.4",
+  "version": "1.7.5",
   "description": "Homebridge plugin for devices supporting the miot protocol",
   "main": "index.js",
   "engines": {
@@ -60,12 +60,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/merdok/homebridge-miot.git"
+    "url": "https://github.com/nebadasSwifty/homebridge-miot.git"
   },
   "bugs": {
-    "url": "https://github.com/merdok/homebridge-miot/issues"
+    "url": "https://github.com/nebadasSwifty/homebridge-miot/issues"
   },
-  "homepage": "https://github.com/merdok/homebridge-miot#readme",
+  "homepage": "https://github.com/nebadasSwifty/homebridge-miot#readme",
   "bin": {
     "miot": "./cli/index.js"
   }
